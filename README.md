@@ -83,5 +83,3 @@ sudo -l
 
 ### 🎉 **Rooted the Cheese Machine! Another successful pwn!**
 ```
-
-This version of the README.md is more polished, structured, and engaging while clearly presenting the steps taken. Let me know if any further tweaks are needed!
